@@ -1,0 +1,14 @@
+D:\work_space\C#_learn\C#俄罗斯方块\bin\Debug\net7.0\C#俄罗斯方块.exe
+D:\work_space\C#_learn\C#俄罗斯方块\bin\Debug\net7.0\C#俄罗斯方块.deps.json
+D:\work_space\C#_learn\C#俄罗斯方块\bin\Debug\net7.0\C#俄罗斯方块.runtimeconfig.json
+D:\work_space\C#_learn\C#俄罗斯方块\bin\Debug\net7.0\C#俄罗斯方块.dll
+D:\work_space\C#_learn\C#俄罗斯方块\bin\Debug\net7.0\C#俄罗斯方块.pdb
+D:\work_space\C#_learn\C#俄罗斯方块\obj\Debug\net7.0\C#俄罗斯方块.GeneratedMSBuildEditorConfig.editorconfig
+D:\work_space\C#_learn\C#俄罗斯方块\obj\Debug\net7.0\C#俄罗斯方块.AssemblyInfoInputs.cache
+D:\work_space\C#_learn\C#俄罗斯方块\obj\Debug\net7.0\C#俄罗斯方块.AssemblyInfo.cs
+D:\work_space\C#_learn\C#俄罗斯方块\obj\Debug\net7.0\C#俄罗斯方块.csproj.CoreCompileInputs.cache
+D:\work_space\C#_learn\C#俄罗斯方块\obj\Debug\net7.0\C#俄罗斯方块.dll
+D:\work_space\C#_learn\C#俄罗斯方块\obj\Debug\net7.0\refint\C#俄罗斯方块.dll
+D:\work_space\C#_learn\C#俄罗斯方块\obj\Debug\net7.0\C#俄罗斯方块.pdb
+D:\work_space\C#_learn\C#俄罗斯方块\obj\Debug\net7.0\C#俄罗斯方块.genruntimeconfig.cache
+D:\work_space\C#_learn\C#俄罗斯方块\obj\Debug\net7.0\ref\C#俄罗斯方块.dll
